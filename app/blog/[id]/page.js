@@ -1,5 +1,5 @@
 import { getPostData } from "@/app/lib/posts";
-import { headers } from "next/headers";
+import { headers } from "next/headers";sajkAJKCNBB
 
 export default function BlogPage() {
   const headersList = headers();
