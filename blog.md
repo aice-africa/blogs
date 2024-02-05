@@ -1,4 +1,5 @@
-# Creating a personal blog
+# Creating a personal blog katlego
+
 
 The aim is to create a website where you can share about your profile (image, description, and you blog). 
 The **main** page of the blog should have an (image and a description of your work and interests). 
